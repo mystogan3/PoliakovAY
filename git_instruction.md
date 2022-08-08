@@ -10,3 +10,5 @@
 1. *Commit files*
 	* To commit files use **git commit** command. 
 	* You can also add <-m> key argument to add messages without opening text editor.
+1. *Check status of repository*
+	* To check status of repository use **git status** command
