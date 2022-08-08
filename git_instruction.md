@@ -14,3 +14,5 @@
 	* To check status of repository use **git status** command
 1. *Check all git commits*
 	* To check git commits use **git log** command.
+1. *Rollback*
+	* To rollback any changes you have to use **git checkout** command where after the command you need to add at least 5 signs from the commits.
