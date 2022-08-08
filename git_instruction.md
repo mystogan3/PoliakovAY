@@ -5,3 +5,5 @@
 	* After initializaion of the repository you have to add a username and an email for owner of the repository:
 		* **git config --global user.name \<name of user\>**
 		* **git config --global user.email \<email of user\>**
+1. *Add files for git tracktion*
+	* To add files for tracktion use **git add \<filesname\>** commands
