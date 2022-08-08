@@ -1,11 +1,11 @@
 # *INSTRUCTON OF USING GIT*
 1. *Initialize git repository*
 	* To initialize git use **git init** command in terminal session
-1. *Initialize user*
+1. *Initialize users*
 	* After initializaion of the repository you have to add a username and an email for owner of the repository:
 		* **git config --global user.name \<name of user\>**
 		* **git config --global user.email \<email of user\>**
-		* add somethings
+		* add some thing
 1. *Add files for git tracktion*
 	* To add files for tracktion use **git add \<filesname\>** commands
 1. *Commit files*
