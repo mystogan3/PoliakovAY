@@ -5,6 +5,7 @@
 	* After initializaion of the repository you have to add a username and an email for owner of the repository:
 		* **git config --global user.name \<name of user\>**
 		* **git config --global user.email \<email of user\>**
+		* add somethings
 1. *Add files for git tracktion*
 	* To add files for tracktion use **git add \<filesname\>** commands
 1. *Commit files*
@@ -17,6 +18,8 @@
 1. *Rollback*
 	* To rollback any changes you have to use **git checkout** command where after the command you need to add at least 5 signs from the commits.
 
-## GOODLUCK my dear STUDENT and SEE YOU LATER!!!
+## GOODLUCK my dear STUDENT and see you later!
 
 ![Sorry the picture is not found:(](Goodluck.jpg)
+
+
