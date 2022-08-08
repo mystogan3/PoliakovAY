@@ -12,3 +12,5 @@
 	* You can also add <-m> key argument to add messages without opening text editor.
 1. *Check status of repository*
 	* To check status of repository use **git status** command
+1. *Check all git commits*
+	* To check git commits use **git log** command.
