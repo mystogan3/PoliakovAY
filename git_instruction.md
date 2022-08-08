@@ -7,3 +7,6 @@
 		* **git config --global user.email \<email of user\>**
 1. *Add files for git tracktion*
 	* To add files for tracktion use **git add \<filesname\>** commands
+1. *Commit files*
+	* To commit files use **git commit** command. 
+	* You can also add <-m> key argument to add messages without opening text editor.
