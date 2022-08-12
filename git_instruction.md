@@ -28,6 +28,8 @@
 	* To move a new branch you have to use **git checkout \<branchname\>** command
 	* Also you can use one command to create and move to a new branch **git checkout -b \<branchname\>**
 	* To see all created branches use **git branch** command
+1. *Merge*
+	* To do merge, move to master branch and then use **git merge \<branchname\>** commmand.
 
 ## GOODLUCK my dear STUDENT and see you later!!!
 
