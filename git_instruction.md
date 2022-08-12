@@ -24,7 +24,7 @@
 1. *Rollback*
 	* To rollback any changes you have to use **git checkout** command where after the command you need to add at least 5 signs from the commits.
 
-## GOODLUCK my dear STUDENT and see you later!!
+## GOODLUCK my dear STUDENT and see you later!!!
 
 ![Sorry the picture is not found:(](Goodluck.jpg)
 
