@@ -23,6 +23,8 @@
 	* To check git commits use **git log** command.
 1. *Rollback*
 	* To rollback any changes you have to use **git checkout** command where after the command you need to add at least 5 signs from the commits.
+1. *Merge*
+	* To do merge, move to master branch and then use **git merge \<branchname\>** commmand
 
 ## GOODLUCK my dear STUDENT and see you later!
 
