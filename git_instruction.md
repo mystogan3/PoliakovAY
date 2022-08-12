@@ -16,6 +16,11 @@
 	* To check git commits use **git log** command.
 1. *Rollback*
 	* To rollback any changes you have to use **git checkout** command where after the command you need to add at least 5 signs from the commits.
+1. Create Branch
+	* To create Branches you have to use **git branch \<branchname\>** command
+	* To move a new branch you have to use **git checkout \<branchname\>** command
+	* Also you can use one command to create and move to a new branch **git checkout -M \<branchname\>**
+	* To see all created branches use **git branch** command
 
 ## GOODLUCK my dear STUDENT and SEE YOU LATER!!!
 
