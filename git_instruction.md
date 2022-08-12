@@ -19,7 +19,7 @@
 1. Create Branch
 	* To create Branches you have to use **git branch \<branchname\>** command
 	* To move a new branch you have to use **git checkout \<branchname\>** command
-	* Also you can use one command to create and move to a new branch **git checkout -M \<branchname\>**
+	* Also you can use one command to create and move to a new branch **git checkout -b \<branchname\>**
 	* To see all created branches use **git branch** command
 
 ## GOODLUCK my dear STUDENT and SEE YOU LATER!!!
